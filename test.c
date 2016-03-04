@@ -1,2 +1,3 @@
 index
+update
 delete
