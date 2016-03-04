@@ -1,2 +1,2 @@
 index
-add hong
+delete
